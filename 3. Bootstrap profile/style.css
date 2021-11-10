@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(194, 196, 197);
+}
+
+.avatar {
+    width: 250px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+.intro {
+    text-align: center;
+    background-color: rgb(120, 155, 175);
+    margin-bottom: 30px;
+    height: 450px;
+}
+
+.container p {
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+.cards {
+    display: flex;
+    margin: 20px;
+}
